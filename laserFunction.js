@@ -1,0 +1,3 @@
+const getLaserSetting = () => {
+	return 'OFF'
+}
